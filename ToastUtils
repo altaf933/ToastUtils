@@ -1,4 +1,4 @@
-package com.utils.android.util;
+package com.android.utils;
 
 import java.util.Timer;
 
